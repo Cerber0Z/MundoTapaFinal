@@ -1,0 +1,154 @@
+#calendar{
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+}    
+#Descripcion{
+    border: 1px solid #d1d3e2;
+    color: #6e707e;
+    width: 100%;
+}
+
+#labels{
+    font-size: small;
+    color: #8a8a8a;
+    line-height: 1;
+    margin-bottom: 7px;
+    display: block;
+    margin-top: 13px;
+}
+
+#infoUsaurio{
+    text-align: initial;
+    margin-top: -3px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: 15px;
+}
+#ifoUsuario{
+    font-size: small;
+    color: #8a8a8a;
+    line-height: 1;
+    margin-bottom: 7px;
+    display: block;
+    margin-top: 12px;
+
+}
+#ImagenPerfil{
+    width: 18%;
+
+}
+.form-controls{
+    display: block;
+    width: 49%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6e707e;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #d1d3e2;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.form-controlss{
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6e707e;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #d1d3e2;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+#horaagenda{
+    margin-left: 51%;
+    margin-top: -74px;
+}
+#TabalSolicitud{
+    margin-left: 81%;
+    position: absolute;
+    margin-top: -68.2%;
+}
+
+#calendarioXD{
+    border-radius: 0.05rem !important;
+    margin-bottom: 25px;
+}
+#buntonAgregarSolic{
+    width: 50px;
+    height: 50px;
+    background-color: #7cda82;
+    margin: 5px;
+    border-radius: 50px;
+    font-size: 20px;
+    text-transform: uppercase;
+    z-index: 1;
+    margin-top: 1.5%;
+    margin-left: 85%;
+    position: absolute;
+}
+#TabalSolicitud2{
+    margin-left: 81%;
+    position: absolute;
+    margin-top: -30.8%;
+}
+#TabalSolicitud3{
+    margin-left: 81%;
+    position: absolute;
+    margin-top: -50.2%;
+}
+
+
+#form-controls{
+    margin-bottom: auto;
+}
+#etiqutacompletada{
+    margin-left: 1%;
+    font-size: small;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 4px;
+}
+#etiqutacompletadas{
+    font-size: small;
+    text-align: center;
+    margin-top: 7px;
+    margin-bottom: 14px;
+    border-radius: revert;
+}
+#etiqutacompletadasRazon2{
+    margin-left: 1%;
+    font-size: small;
+    text-align: center;
+    margin-bottom: 0px;
+    border-radius: 0%;
+}
+#razoncancelacion2{
+    background-color: #ffffff96;
+    opacity: 1;
+}
+
+#modal-Rcancelamiento{
+    margin-left: 104%;
+}
+#modal-Rcancelamiento2{
+    margin-left: 0%;
+}
+.textsisz{
+    font-size: 92%;
+}
+.blockquotess{
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: small;
+    border-left: 5px solid #dc2828;
+    background-color: #f3f3f3;
+}

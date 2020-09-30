@@ -1,0 +1,40 @@
+.dropdown-menu .dropdown-header{
+    text-transform: none !important;
+    letter-spacing: normal;
+}
+.dropdown-menu .dropdown-header .dropdown-user-img 
+{
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-right: 1rem;
+    border-radius: 100%;
+        
+}
+.dropdown-menu .dropdown-header .dropdown-user-details{
+    font-weight: 400;
+}
+.dropdown-menu .dropdown-header .dropdown-user-details .dropdown-user-details-name{
+    color: #1f2d41;
+    font-weight: 500;
+    font-size: 0.9rem;
+    max-width: 10rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.dropdown-item:active{
+    background: #0f8fda;   
+    color: #ffffff;
+}
+.text-gray-400{
+    color :#bbb8b8 !important;
+}
+.dropdown-menu .dropdown-header .dropdown-user-details .dropdown-user-details-email {
+    color: #8a8b8e;
+    font-size: 0.80rem;
+    max-width: 10rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+

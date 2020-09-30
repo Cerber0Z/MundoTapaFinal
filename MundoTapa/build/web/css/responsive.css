@@ -1,0 +1,447 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 15/09/2020, 09:02:38 AM
+    Author     : sergi
+*/
+
+@media only screen and (max-width:412px){
+    #tituloss{
+        margin-top: -9%;
+        margin-left: 15%;
+
+    }
+    #breasd{
+        margin-left: -2.5% !important;
+    }
+    #calendarioXD{
+        margin-left: -5%;
+        width: 104.8%;
+    }
+    #TabalSolicitud{
+        margin-left: -4%;
+        position: absolute;
+        margin-top: -2.2%;
+        width: 396px;
+    }
+    .bg-gradient-primary {
+        background: linear-gradient(to bottom, rgb(61 171 226 / 100%) 0, rgb(20 101 158 / 100%)100%), url(../img/dashboard.png);
+        z-index: 1;
+        border-radius: 10px;
+        min-height:41.5vh;
+        margin-left: 5%;
+    }
+    #container-tabla{
+        margin-left: -11%;
+        width: 112%;
+    }
+    #datosdeusuario{
+        margin-left: -0.2%;
+        margin-top: 4.2%;
+        width: 100%;
+        margin-right: 0%;
+    }
+    #datosdeUs{
+        margin-left: -0.3%;
+        margin-right: 0%;
+        margin-top: 4.2%;
+    }
+    #boton2{
+        width: 40px;
+        height: 40px;
+        background-color: #ffffff;
+        margin: 43px;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        z-index: 1;
+        margin-top: 27px;
+        position: absolute;
+        box-shadow: 2px 2px 5px #999;
+        color: #acadb4;
+        text-align: center;
+        padding: 7px;
+    }
+    #boton2:active {
+        width: 40.5px;
+        height: 40.5px;
+        margin-top: 25.5px;
+    }
+    .container, .container-fluid {
+
+        padding-right: 0.3rem;
+    }
+    .container-fluid {
+        /*width: 100%;*/
+        /*        padding-right: .75rem;
+                padding-left: .75rem;*/
+        margin-right: auto;
+        /*        margin-left: auto;*/
+    }
+    #logoimg{
+        max-width: 0%;
+        height: auto;
+    }
+
+    #titulomundo{
+        margin-left: -15% !important;
+
+    }
+    #servbicios{
+        margin-left: 0% !important;
+    }
+    #servbicios2{
+        margin-left: 0% !important;
+        margin-top: 10% !important;
+    }
+    #services {
+        background: linear-gradient(to bottom, rgb(121 216 245 / 0%) 0, rgb(27 116 142 / 0%)100%);
+    }
+    #butoneviarcorre {
+        margin-left: 65% !important;
+    }
+    #btniniciosesion {
+        margin-left: 0%;
+        margin-top: 0%;
+        width: 97%;
+    }
+    #logo-arriba {
+        width: 0% !important;
+    }
+    #infofooter{
+        color: white;
+        margin-right: 30% !important;
+        margin-top: -30% !important;
+        text-align: -webkit-left;
+    }
+    #infoCopyrai{
+        color: white;
+        margin-left: 79% !important;
+        z-index: 1;
+        font-size: smaller;
+    }
+    #logoimgfooter{
+        width: 10%  !important;
+        margin-left: 84%  !important;
+    }
+    #textiniciosesion {
+        margin-left: -3%;
+        color: white !important;
+    }
+    #migasdepan {
+        width: 275px  !important;
+        font-size: smaller;
+        background-color: #ffffff;
+        margin-left: 13% !important
+    }
+    #migasdepans{
+        margin-left: 23% !important;
+        width: 77.2% !important;
+    }
+    #containercaledar {
+        margin-left: 0%  !important;
+    }
+    #titulosa {
+        margin-left:32% !important;
+        font-size: revert;
+        z-index: 1;
+        position: absolute;
+        margin-top: -8% !important;
+    }
+    #titulosa3{
+        margin-left: 20% !important;
+        font-size: revert;
+        z-index: 1;
+        position: absolute;
+        margin-top: -8% !important;
+    }
+    #migasdepan2 {
+        margin-left: -12% !important;
+        margin-top: -6px !important;
+        margin-left: 15%;
+    }
+    #boton {
+        width: 40px;
+        height: 40px;
+        background-color: #7cda82;
+        margin: 5px;
+        padding: 10px;
+        -webkit-border-radius: 50px;
+        -moz-border-radius: 50px;
+        border-radius: 50px;
+        font-size: 17px;
+        line-height: 32px;
+        text-transform: uppercase;
+        float: left;
+        position: relative;
+        z-index: 1;
+        margin-left: 85%;
+        margin-right: -105%;
+        margin-top: 15.9%;
+    }
+    .dataTables_filter {
+        margin-left: 131% !important;
+        margin-top: -17% !important;
+        width: 60%;
+    }
+    #btnsUser3 {
+        margin-left: -11%;
+        margin-bottom: -8px;
+        margin-top: -25px;
+    }
+    #analiticasadmin{
+        margin-left: -2.0% !important;
+    }
+    #titulocarag{
+        margin-top: -9%;
+        margin-left: 15% !important;
+    }
+    #migasdepancarga{
+        width: 50.2% !important;
+        font-size: smaller;
+        background-color: #ffffff;
+        margin-left: 31% !important;
+    }
+    #migasdepancarga2{
+        margin-left: -50% !important;
+    }
+    #btnsUser4{
+        margin-left: 2.9%  !important;
+        margin-bottom: -6px  !important;
+        margin-top: -5px  !important;
+    }
+    #btnsUser {
+        margin-left: 1%;
+        margin-bottom: -6px;
+        margin-top: -24px;
+    }
+    #titletablarepor{
+        color: #f8f9fc!important;
+    }
+    #titulosa8{
+        margin-left: -3% !important;
+        font-size: revert;
+        z-index: 1;
+        position: absolute;
+        margin-top: -8% !important;
+    }
+    #titulosa9{
+        margin-left: 10% !important;
+        font-size: revert;
+        z-index: 1;
+        position: absolute;
+        margin-top: -8% !important;
+    }
+    #migasdepan6{
+        width: 50.2% !important;
+        margin-left: 33% !important;
+
+    }
+    #migasdepan7{
+        margin-left: -45% !important;
+        margin-top: -6px !important;
+    }
+    #btnsUser2 {
+        margin-left: 40%;
+        margin-bottom: -9px;
+        margin-top: -26px;
+    }
+    #migasdepan9{
+        margin-left: 6% !important;
+        margin-top: -6px !important;
+    }
+    #migasdepan10{
+        width: 90.2% !important;
+    }
+
+    #wrapper{
+        position: absolute; 
+        top: 77px;
+    }
+    #navlateral2{
+        margin-top: -65%;
+        z-index: 1;
+    }
+    #complemetos{
+        margin-left: -8%;
+    }
+    #titulocarag2{
+        margin-top: -10%;
+        margin-left: 7% !important;
+    }
+    #i-agen{
+        margin-left: -18% !important;
+        margin-top: -6px;
+    }
+    #migasdepan15{
+        margin-left: 19% !important;
+        width: 77.2% !important;
+    }
+    #butoncomplet{
+        margin-left: 15% !important;
+        margin-top: 2% !important;
+    }
+    #butonhabilitadas{
+        margin-left: -10% !important;
+        z-index: 1;
+        position: absolute;
+    }
+    #butoncancelo{
+        margin-left: 46%;
+    }
+    #btnlist{
+        margin-left: 90% !important;
+        margin-top: -20%;
+    }
+    #titleAgendaUs{
+        margin-left: 0% !important;
+    }
+    #TabalSolicitud2{
+        margin-left: -4%;
+        position: absolute;
+        margin-top: 153.8%;
+        width: 396px;
+    }
+    #TabalSolicitud3{
+        margin-left: -4%;
+        position: absolute;
+        margin-top: 66.8%;
+        width: 396px;
+    }
+    #buntonAgregarSolic{
+        margin-top: -16.5% !important;
+    }
+    #esconderTitle{
+        color: #f8f9fc!important;
+    }
+    #footerUser{
+        margin-bottom: -210%;
+    }
+}
+
+
+@media only screen and (max-width: 1826px) {
+    .breasd{
+        margin-left: 80%;
+    }
+}
+@media only screen and (max-width: 1572px) {
+    .breasd{
+        margin-left: 79%;
+    }
+}
+@media only screen and (max-width: 1502px) {
+    .breasd{
+        margin-left: 77%;
+    }
+}
+@media only screen and (max-width: 1382px) {
+    .breasd{
+        margin-left: 74%;
+    }
+}
+@media only screen and (max-width: 1237px) {
+    .breasd{
+        margin-left: 70%;
+    }
+}
+@media only screen and (max-width: 1089px) {
+    .breasd{
+        margin-left: 65%;
+    }
+}
+@media only screen and (max-width: 952px) {
+    .breasd{
+        margin-left: 60%;
+    }
+}
+@media only screen and (max-width: 949px) {
+    .breasd{
+        margin-left: 45%;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    #tituloss{
+        margin-top: -10%;
+        margin-left: -3%;
+    }
+    #breasd{
+        margin-left: -8% !important;
+    }
+    #calendarioXD{
+        margin-left: -25%;
+        width: 115%;
+    }
+
+}
+
+
+#logoimg{
+    width: 65%; 
+    margin-left: 25%;
+}
+#titulomundo{
+    margin-left: -1%;
+    font-family: cursive;
+}
+#servbicios{
+    margin-left: 25%;
+}
+#servbicios2{
+    margin-left: 52%;
+    margin-top: -24.2%;z-index: 1;  
+}
+#butoneviarcorre{
+    margin-left: 84%; 
+}
+#logo-arriba{
+    width: 110%;
+}
+
+#infofooter{
+    color: white;margin-right: 62%;
+    margin-top: -8%;
+    text-align: -webkit-left;
+}
+
+#infoCopyrai{
+    color: white;
+    margin-left: 82%;
+    z-index: 1;
+    font-size: smaller;
+}
+
+#logoimgfooter{
+    width: 6%;margin-left: 88%;
+}
+
+#migasdepan{
+    width: 127.2%;
+    font-size: smaller;
+    background-color: #ffffff;   
+}
+
+#containercaledar{
+    margin-left: 15%;
+}
+
+#titulosa{
+    margin-left: 9%;
+    font-size: revert;
+    z-index: 1;
+    position: absolute;
+}
+
+#migasdepan2{
+    margin-left: 81%;
+    margin-top: -6px;
+}
+.bafr{
+    width: 97.2%; 
+    font-size: smaller;
+    background-color: #ffffff;
+    margin-left: 9%;
+}

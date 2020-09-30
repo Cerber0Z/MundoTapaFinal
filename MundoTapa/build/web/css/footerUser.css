@@ -1,0 +1,45 @@
+.sidenav-footer{
+
+    display: flex;
+    flex-shrink: 0;
+    -webkit-box-align: center;
+    align-items: center;
+    padding-left: 0.75rem;
+    padding-right: 7.45rem;
+    height: 6rem;
+    position: absolute;
+    background-color: rgba(31, 45, 65, 0.05);
+    color: #ccf2d5;
+}
+.sidenav-footer .sidenav-footer-content{
+    font-size: 0.9rem;
+}
+.sidenav-footer .sidenav-footer-content .sidenav-footer-subtitle{
+    font-size: 0.75rem;
+}
+.sidenav-footer .sidenav-footer-content .sidenav-footer-title{
+    font-weight: 500;
+}
+
+#btn-menuarriba{
+    z-index: auto;
+    position: absolute;
+    top: 0px;
+    margin-top: 49.9%;
+    margin-left: 2.5%;
+    width: 11.6%;
+    border-radius: inherit;
+    padding: 10px;
+    background: #50a0d4;
+    border-color: #2989d2;
+    float: left;
+}
+
+/*.menu-fixed {
+	position:fixed;
+	z-index:1000;
+	top:0;
+	max-width:1000px;
+	width:100%;
+	box-shadow:0px 4px 3px rgba(0,0,0,.5);
+}*/

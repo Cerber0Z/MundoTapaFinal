@@ -1,0 +1,11 @@
+#form-controls{
+    margin-bottom: auto;
+}
+#labels{
+    font-size: small;
+    color: #8a8a8a;
+    line-height: 1;
+    margin-bottom: 7px;
+    display: block;
+    margin-top: 13px;
+}

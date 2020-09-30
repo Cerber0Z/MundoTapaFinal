@@ -1,0 +1,324 @@
+#container-usuario-table{
+    background: #ffffff;
+    width: 100%;
+}
+#boton{
+    width:40px;
+    height:40px;
+    background-color:#7cda82;
+    margin: 5px;
+    padding:10px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    font-size:17px;
+    line-height:32px;
+    text-transform: uppercase;
+    float:left;
+    position: relative;
+    z-index: 1;
+    margin-left: 102%;
+    margin-right: -105%;
+    margin-top: 3.9%;
+}
+#boton:hover{
+    opacity: 0.50;
+    -moz-opacity: .50;
+    filter:alpha (opacity=50);
+}
+#boton a{
+    color:#fff;
+    text-decoration:none;
+    padding:5px 5px 5px 0;
+}
+#boton2{
+    width: 40px;
+    height: 40px;
+    background-color: #ffffff;
+    margin: 60px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    z-index: 1;
+    margin-top: 50px;
+    position: absolute;
+    box-shadow: 2px 2px 5px #999;
+    color: #acadb4;
+    text-align: center;
+    padding: 7px;
+}
+#boton2:hover{
+    opacity: 1.9;
+    color: #1cc88a;
+
+}
+#boton2 a{
+    color:#fff;
+    text-decoration:none;
+    padding:5px 5px 5px 0;
+}
+
+#boton2:active{
+    width: 40.5px;
+    height: 40.5px;
+    margin-top: 49.5px;
+}
+#container-tabla{
+    margin-left: 7.5%;
+}
+#btn-dowloand{
+
+    margin-left: 13%;
+    margin-top: -4%;
+
+}
+#btnsSolici{
+    margin-left: -2.5%;
+    margin-bottom: -30px;
+    margin-top: -4px;
+}
+#btnsUser{
+    margin-left: 78%;
+    margin-bottom: -6px;
+    margin-top: -24px;
+}
+#btnsUser2{
+    margin-left: 85%;
+    margin-bottom: -9px;
+    margin-top: -26px;
+}
+#btnsUser3{
+    margin-left: 73%;
+    margin-bottom: -8px;
+    margin-top: -25px;
+}
+#btnsUser4{
+    margin-left: 6.9%;
+    margin-bottom: -6px;
+    margin-top: -5px;
+}
+#texdecoration{
+    color:#fff !important;
+}
+a:link
+{
+    text-decoration:none;
+}
+#btnedicion{
+    margin-left: 26%;
+    font-size:18px;
+}
+#btneliminar{
+    font-size:18px;
+}
+#btnrecuperacion{
+    margin-left: 26%;
+}
+#iconplsu{
+
+    position: absolute;
+    margin-left: -8px;
+    margin-top: -8px;
+
+
+}
+.dataTables_info{
+    color:#969494;
+}
+.dataTables_length{
+    margin-top: 20px;
+}
+.dataTables_filter{
+    margin-left: 75%;
+}
+.label {
+    font-size: small;
+    color: #8a8a8a;
+    line-height: 1;
+    margin-bottom: 7px;
+    display: block;
+    margin-top: 13px;
+}
+
+#BloquearUs{
+    margin-top: -8px;  
+}   
+
+#BloquearPrs{
+    margin-top: 22px;
+}
+#tabalascard{
+    margin-top: -20px;
+}
+#infoUsaurio{
+    text-align: initial;
+    margin-top: -20px;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: 16px;
+}
+
+#etiqutacompletada{
+    margin-left: 1%;
+    font-size: small;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 4px;
+}
+#etiqutacompletadas{
+    font-size: small;
+    text-align: center;
+    margin-top: 7px;
+    margin-bottom: 14px;
+    border-radius: revert;
+}
+#etiqutacompletadasRazon{
+    margin-left: 1%;
+    font-size: small;
+    text-align: center;
+    margin-bottom: 0px;
+    border-radius: 0%;
+}
+#razoncancelacion{
+    background-color: #ffffff96;
+    opacity: 1;
+}
+
+#modal-Rcancelamiento{
+    margin-left: 56.5%;
+    width: 96.6%;
+
+}
+.textsisz{
+    font-size: 92%;
+}
+
+/************************/
+
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #fff;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 25px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.w{
+    width: 500;
+}
+
+.invisible{
+    display: none;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 26px;
+    right: 15px;
+    font-size: 40px;
+    margin-left: -3px;
+}
+#btnlist{
+    border-radius: inherit;
+    border-color: #d1dad7;
+    color: #959696;
+    background: white;
+    margin-left: 97%;
+    margin-top: -5%;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+.modal-content2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 200%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: .3rem;
+    outline: 0;
+    margin-left: -45%;
+}
+.controls-divs-info{
+    width: 50%;
+}
+
+.hr2{ 
+    border: none;
+    border-left: 1px solid hsl(0deg 0% 90%);
+    height: 32vh;
+    width: 1px;
+    margin-top: -30%;
+    position: absolute;
+    margin-left: 50%;
+}
+.hr6{
+    border: none;
+    border-left: 1px solid hsl(0deg 0% 90%);
+    height: 32vh;
+    width: 1px;
+    margin-top: -30%;
+    position: absolute;
+    margin-left: 50%;
+}
+
+#fotodedonativo{
+    position: absolute;
+    margin-left: 51%;
+    margin-top: -30%;
+}
+
+.blockquotess{
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: small;
+    border-left: 5px solid #dc2828;
+    background-color: #f3f3f3;
+}
+.blockquotess2{
+    padding: 10px 20px;
+    margin: -5px 0 -5px;
+    font-size: small;
+    border-left: 5px solid #dc2828;
+    background-color: #f3f3f3; 
+}
+#fotodedonativoC{
+    position: absolute;
+    margin-left: 51.0%;
+    margin-top: -23%;
+}
+.hr3{
+    border: none;
+    border-left: 1px solid hsl(0deg 0% 90%);
+    height: 42vh;
+    width: 1px;
+    margin-top: -24%;
+    position: absolute;
+    margin-left: 50%;
+}
+#fotodedonativoComp{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -29%;
+
+}
